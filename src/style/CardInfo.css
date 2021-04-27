@@ -1,0 +1,22 @@
+.card_title{
+    padding-top: 2rem;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.card_subTitle{
+   font-size: 28px;
+   margin-bottom: 10px;
+   font-weight: 600;
+}
+
+.card_link{
+    font-size: 20px;
+    margin: 0
+}
+
+.card_introduction{
+    margin-top: 10px;
+    width: 275px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
